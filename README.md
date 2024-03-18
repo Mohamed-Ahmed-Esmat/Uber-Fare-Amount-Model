@@ -27,5 +27,10 @@ cd uberModel
 
 # Run the Django server
 python manage.py runserver
+```
+## Demo
+
+
+https://github.com/Mohamed-Ahmed-Esmat/Uber-Fare-Amount-Model/assets/125407603/21fb4d5f-7dc9-4387-95ae-6cfe86b76280
 
 
