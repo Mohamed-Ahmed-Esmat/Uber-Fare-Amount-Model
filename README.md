@@ -17,6 +17,11 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 # Install dependencies
 pip install django
 ```
+### Important
+To add the predicted model, visit the following link, direct to *venv\Scripts\uberModel\savedModels*
+Then get the model.job and download it into the project's directory
+https://drive.google.com/file/d/1YufpfV3JEhY-1ZeKK1w5jJS_JhFTUKm9/view?usp=drive_link
+
 ## Running the Website
 
 The model is deployed using Django. To run the website locally, execute:
